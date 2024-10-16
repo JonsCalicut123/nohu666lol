@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+nohu666 lol
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nohu666 được xếp hạng cao nhất - Play Nohu trải nghiệm live vô cùng hấp dẫn tại nhà cái khi tham gia chơi game nổ hũ
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Brand: Nohu666
 
-.. note::
+Website: https://nohu666.lol/ 
 
-   This project is under active development.
+Email: nohu666.lol
 
-Contents
---------
+Điện Thoại: 0912481342
 
-.. toctree::
+Địa Chỉ: 4/20 Ấp 4, Đông Thạnh, Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam
 
-   usage
-   api
+Zipcode: 700000
+
+Tags: #Nohu666 #Nohu666com #nhacaiNohu666 #Nohu666casino
